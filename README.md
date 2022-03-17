@@ -1,15 +1,12 @@
 
-### Hi, It's oREo. I love making stuffs.
+## Hi, It's oREo. I love making stuffs.
 
 - 🏫 Student of the **[Gyeonggi-Buk Science Highschool](https://gbs.hs.kr/) 17th**
 - 🖥 Member of **[SADA](https://sada.gbshs.kr)**, Programming Club in GBS
 - 🎥 Youtube Channel **[oREoTheCream](https://youtube.com/c/oREoTheCream)**
 
-<a href="https://python.org"><img src="https://img.shields.io/badge/-Python-4dabf7?style=for-the-badge&logo=Python&logoColor=white"/></a>
-
-<a href="https://python.org"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"/></a>
-
-<a href="https://python.org"><img src="https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+### Faverite Language & Tools
+<a href="https://python.org"><img src="https://img.shields.io/badge/-Python-4dabf7?style=for-the-badge&logo=Python&logoColor=white"/></a> <a href="https://python.org"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"/></a> <a href="https://python.org"><img src="https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
  
 <a href="https://python.org"><img src="https://img.shields.io/badge/-adobe%20after%20effects-7048e8?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/></a>
 
