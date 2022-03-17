@@ -1,6 +1,6 @@
 
 ### ⭐️ Imagine, Launch! ⭐️
-### Hi, It's oREo.
+Hi, It's oREo.
 
 
 ## About Me
