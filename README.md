@@ -10,7 +10,7 @@
  
 ### ⌨️ Favorite Tools
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a> (w/ **[Dracula Theme](https://github.com/dracula/dracula-theme)**)
-
+-> now i use jetbrains' stuffs
 <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://img.shields.io/badge/-adobe%20after%20effects-7048e8?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/> <a href="https://www.adobe.com/products/premiere.html"><img src="https://img.shields.io/badge/-adobe%20premiere%20pro-9775fa?style=for-the-badge&logo=Adobe%20premiere%20pro&logoColor=white"/></a> <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/-adobe%20photoshop-31A8FF?style=for-the-badge&logo=Adobe%20photoshop&logoColor=white"/></a>
  
 -> But now, I hate Adobe tools lol
