@@ -1,3 +1,6 @@
+## Counter!
+![oreothecream](http://counter.seku.su/cmoe?name=oreothecream)
+
 
 ## Hi, It's oREo. I love making stuffs.
 
@@ -5,7 +8,6 @@
 - 🖥 Member of **[SADA](https://sada.gbshs.kr)**, Programming Club in GBS
 - 🎥 Youtube Channel **[oREoTheCream](https://youtube.com/c/oREoTheCream)**
 
-![oreothecream](http://counter.seku.su/cmoe?name=oreothecream)
 
 ### 💬 Faverite Language
 <a href="https://python.org"><img src="https://img.shields.io/badge/-Python-4dabf7?style=for-the-badge&logo=Python&logoColor=white"/></a> <a href="https://www.google.com/search?q=HTML5"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"/></a> <a href="https://www.google.com/search?q=css3"><img src="https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
