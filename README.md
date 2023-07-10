@@ -1,12 +1,13 @@
-## Counter!
-![oreothecream](http://counter.seku.su/cmoe?name=oreothecream)
-
 
 ## Hi, It's oREo. I love making stuffs.
 
 - 🏫 Student of the **[Gyeonggi-Buk Science Highschool](https://gbs.hs.kr/) 17th**
 - 🖥 Member of **[SADA](https://sada.gbshs.kr)**, Programming Club in GBS
 - 🎥 Youtube Channel **[oREoTheCream](https://youtube.com/c/oREoTheCream)**
+
+### Counter!
+![oreothecream](http://counter.seku.su/cmoe?name=oreothecream)
+
 
 
 ### 💬 Faverite Language
