@@ -6,7 +6,7 @@
 - 🎥 Youtube Channel **[oREoTheCream](https://youtube.com/c/oREoTheCream)**
 
 ### Counter!
-![oreothecream](http://counter.seku.su/cmoe?name=oreothecream)
+<img src="https://counter.seku.su/cmoe?name=oreothecream&theme=r34" />
 
 
 
