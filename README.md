@@ -3,6 +3,8 @@
 
 - 🏫 Student of **[KAIST](https://kaist.ac.kr/) 2024**
 - 🏫 Graduated **[Gyeonggi-Buk Science Highschool](https://gbs.hs.kr/) 17th**
+- 🖥 Member of **[SPARCS](https://sparcs.org)**, Association in KAIST
+- 🖥 Member of **[HAJE](https://haje.org)**, Association in KAIST
 - 🖥 Member of **[SADA](https://sada.gbshs.kr)**, Programming Club in GBS
 
 ### Counter!
