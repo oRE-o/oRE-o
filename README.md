@@ -4,7 +4,6 @@
 - 🏫 Student of **[KAIST](https://kaist.ac.kr/) 2024**
 - 🏫 Graduated **[Gyeonggi-Buk Science Highschool](https://gbs.hs.kr/) 17th**
 - 🖥 Member of **[SADA](https://sada.gbshs.kr)**, Programming Club in GBS
-- 🎥 Youtube Channel **[oREoTheCream](https://youtube.com/c/oREoTheCream)**
 
 ### Counter!
 <img src="https://counter.seku.su/cmoe?name=oreothecream&theme=r34" />
