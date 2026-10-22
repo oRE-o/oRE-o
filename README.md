@@ -31,8 +31,8 @@ I love making things. **Imagine, launch!**
 
 ### Thanks for stopping by 🐾
 
-<a href="https://count.getloli.com/">
-  <img src="https://count.getloli.com/@oreothecream?theme=rule34&amp;padding=7&amp;scale=0.8&amp;align=center&amp;pixelated=0&amp;darkmode=0" alt="oREo's profile visit counter" />
+<a href="https://m.h4ck.org.cn/">
+  <img src="https://m.h4ck.org.cn/@oreothecream?theme=rule34&amp;padding=7&amp;scale=0.8&amp;align=center&amp;pixelated=0&amp;darkmode=0" alt="oREo's profile visit counter" />
 </a>
 
 <sub>Profile visits · Powered by <a href="https://github.com/journey-ad/Moe-Counter">Moe Counter</a></sub>
