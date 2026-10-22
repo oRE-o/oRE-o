@@ -32,7 +32,7 @@ I love making things. **Imagine, launch!**
 ### Thanks for stopping by 🐾
 
 <a href="https://count.getloli.com/">
-  <img src="https://count.getloli.com/@oreothecream?theme=capoo-2&amp;padding=7&amp;scale=0.8&amp;align=center&amp;pixelated=0&amp;darkmode=0" alt="oREo's profile visit counter — Capoo cats" />
+  <img src="https://count.getloli.com/@oreothecream?theme=rule34&amp;padding=7&amp;scale=0.8&amp;align=center&amp;pixelated=0&amp;darkmode=0" alt="oREo's profile visit counter" />
 </a>
 
 <sub>Profile visits · Powered by <a href="https://github.com/journey-ad/Moe-Counter">Moe Counter</a></sub>
